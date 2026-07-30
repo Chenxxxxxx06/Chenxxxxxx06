@@ -85,58 +85,6 @@ const me = {
 
 <br/>
 
-### 📊 GitHub Stats · 统计
-
-<p>
-  <a href="https://github.com/Chenxxxxxx06">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Chenxxxxxx06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1&rank_icon=github" />
-  </a>
-  <a href="https://github.com/Chenxxxxxx06">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chenxxxxxx06&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/Chenxxxxxx06">
-    <img src="https://streak-stats.demolab.com?user=Chenxxxxxx06&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&dates=C9D1D9" />
-  </a>
-</p>
-
-<br/>
-
-### 📈 Contribution Graph · 贡献图
-
-<p>
-  <a href="https://github.com/Chenxxxxxx06">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chenxxxxxx06&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&hide_border=true&area=true" />
-  </a>
-</p>
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Chenxxxxxx06&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" />
-  </a>
-</p>
-
-<br/>
-
-### ⏱️ WakaTime Stats · 编码时间
-
-<!-- 配置 WakaTime + waka-readme-stats GitHub Action 后可启用 -->
-<!-- Configure: https://github.com/anmol098/waka-readme-stats -->
-
-<p>
-  <a href="https://github.com/Chenxxxxxx06">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chenxxxxxx06&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=6&layout=compact&custom_title=Weekly+Coding+Stats+%C2%B7+%E6%9C%AC%E5%91%A8%E7%BC%96%E7%A0%81" />
-  </a>
-</p>
-
-<br/>
-
 ### 📌 Featured Projects · 精选项目
 
 <table>
