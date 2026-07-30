@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=580&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8CI'm+Chenxxxxxx06;AI+Researcher+%2B+Engineer;%E7%A7%91%E7%A0%94+%C2%B7+%E5%B7%A5%E7%A8%8B+%C2%B7+%E5%BC%80%E6%BA%90;Building+tools+for+research" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8CI'm+Chenxxxxxx06;Student+%C2%B7+Engineer+%C2%B7+Researcher;%E5%AD%A6%E4%B9%A0+%C2%B7+%E7%A7%91%E7%A0%94+%C2%B7+%E6%89%BE%E5%AE%9E%E4%B9%A0;Building+tools+for+research;NPU+%7C+%E8%A5%BF%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6" alt="typing" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Chenxxxxxx06&label=Views&color=6366F1&style=flat-square" />
@@ -32,9 +32,15 @@
 ```javascript
 const me = {
   name:      "Chenxxxxxx06",
-  role:      "AI Researcher + Engineer  ·  科研 + 工程",
+  role:      "Student · Engineer · Researcher  ·  学习 + 工程 + 科研",
+  school:    "🏫 Northwestern Polytechnical University (NPU)",
+  note:      "不知道哪里幸运会眷顾我，but I'll be ready 🌟",
+  status:    "🔍 Seeking Internship  ·  找实习中",
   location:  "🇨🇳 China",
   languages: ["Python", "TypeScript", "JavaScript", "SQL"],
+
+  github:    "Just playing around, but serious about research 😄
+              随便玩玩，但科研是认真的",
 
   tech: {
     frontend:  ["React", "Next.js", "Tailwind CSS", "Monaco Editor"],
