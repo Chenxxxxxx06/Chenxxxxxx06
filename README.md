@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8CI'm+Chenxxxxxx06;Student+%C2%B7+Engineer+%C2%B7+Researcher;NPU+%7C+%E8%A5%BF%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6;Building+tools+for+research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Chenxxxxxx06+%F0%9F%91%8B;Student+%C2%B7+Engineer+%C2%B7+Researcher;NPU+%7C+Northwestern+Polytechnical+Univ.;Building+tools+for+research;Open+to+internship+opportunities;%E7%8E%A9%E7%9A%84%E6%98%8E%E7%99%BD%E4%B9%88%EF%BC%9F" alt="Typing SVG" />
 
 <br/>
 
@@ -22,6 +22,10 @@
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" alt="Coding" />
 
+<br/>
+
+> 🎯 **"玩的明白么？"** — *The question that drives everything*
+
 </div>
 
 ---
@@ -35,15 +39,16 @@
 ```javascript
 const me = {
   name:      "Chenxxxxxx06",
-  role:      "Student · Engineer · Researcher  ·  学习 + 工程 + 科研",
+  role:      "Student · Engineer · Researcher",
   school:    "🏫 Northwestern Polytechnical University (NPU)",
-  note:      "不知道哪里幸运会眷顾我，but I'll be ready 🌟",
-  status:    "🔍 Seeking Internship  ·  找实习中",
+  motto:     "玩的明白么？",
+  note:      "Not sure where luck will find me, but I'll be ready 🌟",
+  status:    "🔍 Seeking Internship",
   location:  "🇨🇳 China",
   languages: ["Python", "TypeScript", "JavaScript", "SQL"],
 
-  github:    "Just playing around, but serious about research 😄
-               随便玩玩，但科研是认真的",
+  github:    "Just tinkering — building tools, breaking things,
+               and being serious about research 😄",
 
   technologies: {
     frontend:  ["React", "Next.js", "Tailwind CSS", "Monaco Editor"],
@@ -60,7 +65,7 @@ const me = {
   askMeAbout: ["AI Research Tools", "Full-Stack Dev",
                "Agent Systems", "Academic Workflows"],
 
-  funFact: "好的工具让科研飞起来 🚀"
+  funFact: "Great tools make research fly 🚀"
 };
 ```
 
