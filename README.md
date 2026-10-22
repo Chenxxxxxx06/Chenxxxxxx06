@@ -1,154 +1,106 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║              Chenxxxxxx06 · GitHub Profile                  ║
-  ║      Student · Engineer · Researcher  ·  NPU 西北工业大学    ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+<!-- Pixel cottage · Chenxxxxxx06 -->
 
-<div align="center">
+<img src="assets/profile/hero.png" width="100%" alt="Chenxxxxxx06 — Student, Engineer, Researcher. A pixel-art cottage overlooking a sunny valley. Building tools for research." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Chenxxxxxx06+%F0%9F%91%8B;Student+%C2%B7+Engineer+%C2%B7+Researcher;NPU+%7C+Northwestern+Polytechnical+Univ.;Building+tools+for+research;Open+to+internship+opportunities;%E7%8E%A9%E7%9A%84%E6%98%8E%E7%99%BD%E4%B9%88%EF%BC%9F" alt="Typing SVG" />
+## 🌱 Hi, I'm Chen.
 
-<br/>
+**Student at Northwestern Polytechnical University · 西北工业大学**<br/>
+Building tools, exploring agent systems, and taking research seriously.
 
 <p>
-  <img src="https://img.shields.io/github/followers/Chenxxxxxx06?style=flat-square&color=6366F1&logo=github&label=Followers" />
-  <img src="https://komarev.com/ghpvc/?username=Chenxxxxxx06&label=Profile+Views&color=6366F1&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Chenxxxxxx06/researchos"><img src="https://img.shields.io/badge/ResearchOS-Active-61E6B2?style=flat-square&logo=githubactions&logoColor=white" /></a>
-  <a href="mailto:3653448612@qq.com"><img src="https://img.shields.io/badge/Email-3653448612%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="assets/profile/open-to-internships.svg" height="26" alt="Open to internship opportunities" />
 </p>
 
-<br/>
+| Currently exploring | Things I enjoy building |
+| :--- | :--- |
+| AI-native research tools · Agent architectures | Full-stack applications · Academic workflows |
+| From experiments to papers, end to end | Small tools that make complicated work easier |
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" alt="Coding" />
+## 🔭 01 / Featured project
 
-<br/>
+<a href="https://github.com/lbx154/Argus">
+  <img align="right" src="assets/profile/argus-workshop.png" width="38%" alt="Argus: a pixel-art observatory with a telescope, research notebook and terminal." />
+</a>
 
-> 🎯 **"玩的明白么？"** — *The question that drives everything*
+### [Argus](https://github.com/lbx154/Argus)
 
-</div>
+  <p><strong>Persistent agents for research &amp; engineering.</strong></p>
+  <p>面向科研与工程的持久、多角色 Agent 运行时，让长期任务能够规划、执行、验证、暂停并继续。</p>
+  <p><code>Manager → Planner → Engineer ⇄ Reviewer</code></p>
+  <ul>
+    <li><strong>Plan &amp; review</strong> · 分工协作与独立审查</li>
+    <li><strong>Pause &amp; resume</strong> · 跨模型调用持续推进长期任务</li>
+    <li><strong>Learn &amp; reuse</strong> · Skills、带来源的 Wiki 与领域工作流</li>
+  </ul>
+  <p><a href="https://github.com/lbx154/Argus"><strong>Explore Argus ↗</strong></a> · <a href="https://argusbot.cn">Website</a> · <a href="https://github.com/lbx154/Argus/blob/main/README.zh-CN.md">中文介绍</a></p>
 
----
+<br clear="both"/>
 
-## 👋 About Me · 关于我
+## 🧰 02 / Toolkit
+
+Tools I work with across AI-assisted development, full-stack engineering, and research.
+
+### AI tools · 我的 AI 工作台
+
+<p>
+  <a href="https://openai.com/codex/"><img src="assets/profile/codex.svg" height="34" alt="Codex" /></a>
+  <a href="https://claude.ai/"><img src="assets/profile/claude.svg" height="34" alt="Claude" /></a>
+  <a href="https://code.claude.com/"><img src="assets/profile/claude-code.svg" height="34" alt="Claude Code" /></a>
+  <a href="https://chatgpt.com/"><img src="assets/profile/chatgpt.svg" height="34" alt="ChatGPT" /></a>
+</p>
 
 <table>
 <tr>
+<td width="28%" valign="top"><strong>Languages</strong><br/><sub>编程语言</sub></td>
 <td>
-
-```javascript
-const me = {
-  name:      "Chenxxxxxx06",
-  role:      "Student · Engineer · Researcher",
-  school:    "🏫 Northwestern Polytechnical University (NPU)",
-  motto:     "玩的明白么？",
-  note:      "Not sure where luck will find me, but I'll be ready 🌟",
-  status:    "🔍 Seeking Internship",
-  location:  "🇨🇳 China",
-  languages: ["Python", "TypeScript", "JavaScript", "SQL"],
-
-  github:    "Just tinkering — building tools, breaking things,
-               and being serious about research 😄",
-
-  technologies: {
-    frontend:  ["React", "Next.js", "Tailwind CSS", "Monaco Editor"],
-    backend:   ["FastAPI", "Node.js", "Express", "Celery"],
-    ai:        ["LLM Integration", "Prompt Engineering",
-                "Agent Architectures", "RAG", "Vector Search"],
-    databases: ["PostgreSQL", "pgvector", "Redis", "MinIO"],
-    devops:    ["Docker", "GitHub Actions", "CI/CD", "Nginx"]
-  },
-
-  currentFocus: "Building AI-native research tools —
-                 from experiment to paper, end to end",
-
-  askMeAbout: ["AI Research Tools", "Full-Stack Dev",
-               "Agent Systems", "Academic Workflows"],
-
-  funFact: "Great tools make research fly 🚀"
-};
-```
-
+  <img src="assets/profile/languages.svg" height="32" alt="Python, TypeScript and JavaScript icons" /><br/>
+  Python · TypeScript · JavaScript · SQL
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Frontend</strong><br/><sub>前端开发</sub></td>
+<td>
+  <img src="assets/profile/frontend.svg" height="32" alt="React, Next.js and Tailwind CSS icons" /><br/>
+  React · Next.js · Tailwind CSS · Monaco Editor
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Backend</strong><br/><sub>后端开发</sub></td>
+<td>
+  <img src="assets/profile/backend.svg" height="32" alt="FastAPI, Node.js and Express icons" /><br/>
+  FastAPI · Node.js · Express · Celery
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data &amp; storage</strong><br/><sub>数据与存储</sub></td>
+<td>
+  <img src="assets/profile/data.svg" height="32" alt="PostgreSQL and Redis icons" /><br/>
+  PostgreSQL · pgvector · Redis · MinIO
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>DevOps</strong><br/><sub>工程与部署</sub></td>
+<td>
+  <img src="assets/profile/infrastructure.svg" height="32" alt="Docker, Git, GitHub Actions, Nginx and Linux icons" /><br/>
+  Docker · Git · GitHub Actions · CI/CD · Nginx · Linux
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>AI engineering</strong><br/><sub>AI 应用工程</sub></td>
+<td>
+  LLM Integration · Prompt Engineering · Agent Architectures<br/>
+  RAG · Vector Search
 </td>
 </tr>
 </table>
 
-<br/>
+## ✉️ 03 / Let's connect
 
-<div align="center">
+**[3653448612@qq.com](mailto:3653448612@qq.com)** · **[GitHub ↗](https://github.com/Chenxxxxxx06)**
 
-### 🧰 Tech Stack · 技术栈
+> 玩的明白么？<br/>
+> *Not sure where luck will find me, but I'll be ready.*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,react,nextjs,tailwind,postgres,redis,docker,git,githubactions,linux&theme=dark&perline=6" />
-</p>
+<img src="assets/profile/footer.png" width="100%" alt="A pixel-art orange cat watching a quiet valley, river, farm and mountains." />
 
-<br/>
-
-### 📌 Featured Projects · 精选项目
-
-<table>
-<tr>
-  <td width="50%">
-    <h3 align="center">
-      <a href="https://github.com/Chenxxxxxx06/researchos">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=6366F1&vCenter=true&width=200&lines=%F0%9F%A6%A6+ResearchOS" />
-      </a>
-    </h3>
-    <p align="center">
-      AI-Native Research Operating System<br/>
-      <sub>FastAPI · Next.js · pgvector · Redis</sub><br/><br/>
-      <sub>科研 → 实验 → 论文，端到端 AI 辅助科研工作台</sub>
-    </p>
-  </td>
-  <td width="50%">
-    <h3 align="center">
-      <a href="https://github.com/Chenxxxxxx06">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=61E6B2&vCenter=true&width=200&lines=%E2%9A%A1+Coming+Soon" />
-      </a>
-    </h3>
-    <p align="center">
-      More projects coming soon...<br/>
-      <sub>更多项目即将到来 🚧</sub>
-    </p>
-  </td>
-</tr>
-</table>
-
-<br/>
-
-### 📫 Connect · 联系
-
-<p>
-  <a href="mailto:3653448612@qq.com">
-    <img src="https://img.shields.io/badge/QQ_Mail-3653448612%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Chenxxxxxx06">
-    <img src="https://img.shields.io/badge/GitHub-Chenxxxxxx06-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Chenxxxxxx06/researchos">
-    <img src="https://img.shields.io/badge/%F0%9F%94%AC_ResearchOS-Star_It!-6366F1?style=for-the-badge" />
-  </a>
-</p>
-
-<br/>
-
-### 💭 Random Dev Quote · 开发者语录
-
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<p align="center">
-  <sub>Eat 😋 | Code 👨‍💻 | Research 🔬 | Repeat ♾️ | Ship 🚀</sub><br/>
-  <br/>
-  <sub>© 2024–2026 Chenxxxxxx06 · Built with ❤️ and way too much ☕</sub>
-</p>
-
-</div>
+<p align="center"><sub>Code · Explore · Research · Repeat</sub></p>
