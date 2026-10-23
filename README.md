@@ -96,7 +96,7 @@ Tools I work with across AI-assisted development, full-stack engineering, and re
 
 ## ✉️ 03 / Let's connect
 
-**[3653448612@qq.com](mailto:3653448612@qq.com)** · **[GitHub ↗](https://github.com/Chenxxxxxx06)**
+**[chenxxxxxx@mail.nwpu.edu.cn](mailto:chenxxxxxx@mail.nwpu.edu.cn)** · **[GitHub ↗](https://github.com/Chenxxxxxx06)**
 
 > 玩的明白么？<br/>
 > *Not sure where luck will find me, but I'll be ready.*
